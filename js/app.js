@@ -254,7 +254,7 @@ const showProducts = (products) => {
                 <div class="p-3">
                     <img class="card-img-top product-image" src=${image}></img>
                 </div>
-                <div class="card-body">
+                <div class="card-body text-center">
                 <h5 class="card-title">${product.title}</h5>
                 <h6>Category: ${product.category}</h6>
                 <h5>Price: $ ${product.price}</h5>

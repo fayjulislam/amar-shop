@@ -34,7 +34,7 @@ body {
 .cart {
   padding: 10px;
   box-shadow: 10px 10px 20px gray;
-  border-radius: 5px;
+  border-radius: 10px;
   margin-right: 30px;
   position: fixed;
 }
@@ -44,5 +44,5 @@ body {
 }
 
 .cart:hover {
-  box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.897);
 }
